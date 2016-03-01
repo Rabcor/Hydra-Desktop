@@ -41,7 +41,7 @@ The goal of this desktop environment is of course to create that perfect desktop
 * Many applications of my own (not based on/inspired by windows applications):
  * Hydra Remote
  * Hydra Macros (frontend for VKBM; which I will also make)
- * Hydra Remote
+ * Hydra Remote Rendering (If I make it)
  * Hydra Text Editor (Will look like and possibly be a fork/port of Notepad++, and will probably be labeled that as an alias)
  * Hydra Remote Rendering(if I make it) 
  * Hydra Paint (this won't be anything like MS Paint, I promise, I'm an artist so I'll put work into this, a lot of work, this may be one of my biggest projects even)
