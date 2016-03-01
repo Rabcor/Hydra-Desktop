@@ -3,7 +3,7 @@ Hydra Desktop Environment
 
 Version: **Proof of Concept**
 
-This is where I will slowly build up the Hydra desktop environment, it will be based on Wayland, C and HUT and may possibly utilize python as a scripting language. I may port it or some of it's components to Windows.
+This is where I will slowly build up the Hydra desktop environment, it will be based on Wayland, C and HUT and may possibly utilize python as a scripting language. I may (or may not) port it or some of it's components to Windows.
 
 The goal of this desktop environment is of course to create that perfect desktop I always dreamed of when I switched over to Linux.
 
